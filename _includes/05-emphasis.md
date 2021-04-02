@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ ***All this text is important**! <br/>
+ ~~This was mistaken text~~!<br/>
+ Bold and nested Italic - **This text is _extremely_ important**!<br/>
